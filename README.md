@@ -20,6 +20,7 @@ Without multiplying the sources of information, this method can also allow more 
 
 ## 3. Files
 
+For the development of our application we have chosen to use the MVC (Model-View-Controller) layer architecture. This choice was motivated by the flexibility granted by the MVC architecture to make changes independently of the presentation. You can read more in the Design Document.
 
 
 ## 4. How to run 
