@@ -4,7 +4,6 @@
 
 AirWatcher is an application that aims to process data from air quality sensors. First of all, it gathers the data from different sensors and makes them available to the public. In addition to that, it groups similar data from sensors at a certain point in time to form geographical air quality zones.
 
-
 Thus, thanks to this information, it will be possible to know the air quality at a geographical position without sensors, knowing the data of the nearest zone. The idea is to be able to inform the general public about the air quality in most of the United States for the purpose of prevention for all kinds of companies.
 
 
